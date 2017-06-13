@@ -2,7 +2,7 @@
 
 This Docker image offers a web server based on Nginx.
 
-###Build and run:
+## Build and run:
 ### Build
 To build this image from Dockerfile run this command in your Docker or Docker Toolbox shell:
 
